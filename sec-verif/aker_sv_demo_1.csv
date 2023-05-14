@@ -1,10 +1,10 @@
 SP ID,Related CWEs,SP Requirement,SP Specification Template,SP Type,SP Assets,Total SPs After Expanding
-01,,,"
+1,,,"
 SP01_GENERIC: assert iflow(
   `sig_x` =/=> `sig_y`
 );
 ",IFT,"[('sig_a', 'sig_b'), ('sig_c', 'sig_d'), ('sig_e', 'sig_f'), ('sig_g', 'sig_h'), ('sig_i', 'sig_j')]",5
-02,,,"
+2,,,"
 SP02_GENERIC: assert iflow(
   `sig_x` == `sig_y`
 );
